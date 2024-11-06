@@ -8,6 +8,6 @@ Instruções para configurar e rodar o projeto.
 
 2. Gere o código necessário para pacotes usando o build_runner:
 
-bash
+ ```bash
 Copiar código
 dart run build_runner build --delete-conflicting-outputs
